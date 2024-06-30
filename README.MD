@@ -19,5 +19,6 @@
 - Carrusel
 - Tooltip en el botón enviar del formulario
 
+### Vista de la web
 
   ![viajes_chile_desktop](https://github.com/DevsataAlbo/viajesChile/assets/135687782/5cd14f5d-9676-4684-89bd-aa1e59b876c6)
